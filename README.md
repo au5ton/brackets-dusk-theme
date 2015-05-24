@@ -7,4 +7,4 @@ Xcode's original *Dusk* theme can be found under the preferences menu. Here's wh
 ![Preferences menu](/img/xcode1.png)
 
 
-![Sample Swift Code](/images/xcode2.png)
+![Sample Swift Code](/img/xcode2.png)
