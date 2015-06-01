@@ -1,0 +1,15 @@
+{
+    "name": "au5ton.brackets-dusk",
+    "title": "Xcode Dusk Theme",
+    "description": "The Dusk theme that is built in to Xcode",
+    "homepage": "https://github.com/au5ton/brackets-dusk-theme",
+    "version": "1.0.0",
+    "author": "Austin Jackson <au5ton@icloud.com> (http://austinj.net/)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme","xcode","dusk","au5ton","dark"]
+}

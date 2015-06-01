@@ -1,0 +1,33 @@
+.background {
+    color: #1E2028;
+}
+.plain-text {
+    color: #FFFFFF;
+}
+.comments {
+    color: #41B645;
+}
+.strings {
+    color: #DB2C38;
+}
+.characters, .numbers {
+    color: #786DC4;
+}
+.keywords {
+    color: #B21889;
+}
+.preprocessor {
+    color: #C67C48;
+}
+.urls {
+    color: #4155D1;
+}
+.attributes {
+    color: #55747C;
+}
+.project-class-names {
+    color: #83C057;
+}
+.other-class-names {
+    color: #00A0BE;
+}
