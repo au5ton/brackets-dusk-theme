@@ -1,5 +1,5 @@
 # brackets-dusk-theme
-Xcode's *Dusk* theme for Brackets
+Xcode's *Dusk* theme for Brackets. If you're using Atom, I highly recommend [dusk-syntax by James Espinosa](https://github.com/jamesejr/dusk-syntax).
 
 ###Installation
 Download this repository as a zip, extract the zip file as a folder into `~/Library/Application\ Support/Brackets/extensions/user/` or other platform equivalent. An easy way to get here is by going to `Help > Show Extensions Folder` in Adobe Brackets.
